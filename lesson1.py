@@ -1,4 +1,3 @@
-from sympy import principal_branch
 print('i don\'t know')
 print('say "i don\'t know"')
 print(r'C:\name\name')
